@@ -1,18 +1,36 @@
-<div id="header" align="center">
-  <img src="https://media4.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100"/>
-<div id="badges">
-  <a href="https://www.linkedin.com/in/josemanuelplaza">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <div id="counter">
-      <img src="https://komarev.com/ghpvc/?username=jmplaza75&style=flat-square&color=blue" alt=""/>
-   </a>  
-</div>
+# Hi there, I'm Jose Manuel Plaza Heras - aka Manolo 👋
 
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+<h4>Passionate about Information Technology and Cybersecurity.</h4>
+
+- I work as IT & Business Resilience Senior Auditor on [SIX Group](https://www.six-group.com/en/home.html).
+- I love understanding how things work, which is why I'm a lifelong learner
+- I have many projects in mind and several courses in progress, including the Open Source Society University [OSSU](https://github.com/ossu/computer-science).
+- My main interests are Programming, Data Science, Quantum Computing, and, of course, Cybersecurity and Business Continuity.
+- Connect on [linkedin](https://www.linkedin.com/in/josemanuelplaza/)
+
+<hr>
+
+<h2 align="center"> &#x1f4c8; GitHub Stats </h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+        <a href="https://github.com/jmplaza75">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=jmplaza75&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=jmplaza75&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
+            <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jmplaza75&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+          </picture>
+        </a>
+    </td>
+    <td width="50%">
+        <a href="https://github.com/jmplaza75">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-seven-psi.vercel.app?user=jmplaza75&theme=radical" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-seven-psi.vercel.app?user=jmplaza75" />
+            <img align="center" src="https://github-readme-streak-stats-seven-psi.vercel.app?user=k&theme=radical" alt="Streak Stats" />
+          </picture>
+        </a>
+    </td>
+  </tr>
+</table>
