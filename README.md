@@ -13,7 +13,6 @@
 <h2 align="center"> &#x1f4c8; GitHub Stats </h2>
 
 <table width="100%" align="center">
-  </tr>
   <tr>
     <td width="40%"  align="center">
         <a href="https://github.com/jmplaza75">
@@ -22,11 +21,6 @@
             <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jmplaza75layout=compact&langs_count=10&hide_border=true" />
             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmplaza75&layout=compact&hide_border=true&theme=radical&langs_count=10" alt="Top Languages" />
           </picture>
-        </a>
-    </td>
-          </picture>
-        </a>
-      </td>
   </tr>
 </table>
 
