@@ -25,11 +25,11 @@
         </a>
     </td>
     <td width="60%"  align="center">
-        <a href="https://github.com/RanitManik">
+        <a href="https://github.com/jmplaza75">
           <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=jmplaza75layout=compact&hide_border=true&theme=radical&langs_count=10&hide=other" />
             <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=jmplaza75layout=compact&langs_count=10&hide_border=true&hide=other" />
-            <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=RanitManik&layout=compact&hide_border=true&theme=radical&langs_count=10&hide=other" alt="Wakatime Stats" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jmplaza75&layout=compact&hide_border=true&theme=radical&langs_count=10&hide=other" alt="Wakatime Stats" />
           </picture>
         </a>
       </td>
