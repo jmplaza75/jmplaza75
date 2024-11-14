@@ -20,7 +20,9 @@
             <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=jmplaza75&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
             <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=jmplaza75&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
             <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jmplaza75&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
-            ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmplaza75&layout=compact)
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jmplaza75layout=compact&hide_border=true&theme=radical&langs_count=10" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jmplaza75&layout=compact&langs_count=10&hide_border=true" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanitManik&layout=compact&hide_border=true&theme=radical&langs_count=10" alt="Top Languages" />
           </picture>
         </a>
     </td>
