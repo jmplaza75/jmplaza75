@@ -12,28 +12,27 @@
 
 <h2 align="center"> &#x1f4c8; GitHub Stats </h2>
 
-<table width="100%">
+<table width="100%" align="center">
+  </tr>
   <tr>
-    <td width="50%">
+    <td width="40%"  align="center">
         <a href="https://github.com/jmplaza75">
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=jmplaza75&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=jmplaza75&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
-            <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jmplaza75&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
             <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jmplaza75layout=compact&hide_border=true&theme=radical&langs_count=10" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jmplaza75&layout=compact&langs_count=10&hide_border=true" />
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanitManik&layout=compact&hide_border=true&theme=radical&langs_count=10" alt="Top Languages" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jmplaza75layout=compact&langs_count=10&hide_border=true" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmplaza75&layout=compact&hide_border=true&theme=radical&langs_count=10" alt="Top Languages" />
           </picture>
         </a>
     </td>
-    <td width="50%">
-        <a href="https://github.com/jmplaza75">
+    <td width="60%"  align="center">
+        <a href="https://github.com/RanitManik">
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-seven-psi.vercel.app?user=jmplaza75&theme=radical" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-seven-psi.vercel.app?user=jmplaza75" />
-            <img align="center" src="https://github-readme-streak-stats-seven-psi.vercel.app?user=k&theme=radical" alt="Streak Stats" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=jmplaza75layout=compact&hide_border=true&theme=radical&langs_count=10&hide=other" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=jmplaza75layout=compact&langs_count=10&hide_border=true&hide=other" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=RanitManik&layout=compact&hide_border=true&theme=radical&langs_count=10&hide=other" alt="Wakatime Stats" />
           </picture>
         </a>
-    </td>
+      </td>
   </tr>
 </table>
+
