@@ -16,7 +16,6 @@
         <a href="https://github.com/jmplaza75">
           <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=jmplaza75&hide_border=true&theme=radical&include_all_commits=true&count_private=true&show_icons=true" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=jmplaza75&include_all_commits=true&count_private=true&show_icons=true&hide_border=true" />
             <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jmplaza75&hide_border=true&theme=radical&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
           </picture>
         </a>
