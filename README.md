@@ -2,7 +2,6 @@
 
 <h4>Passionate about Information Technology and Cybersecurity.</h4>
 
-- I work as IT & Business Resilience Senior Auditor on [SIX Group](https://www.six-group.com/en/home.html).
 - I love understanding how things work, which is why I'm a lifelong learner
 - I have many projects in mind and several courses in progress, including the Open Source Society University [OSSU](https://github.com/ossu/computer-science).
 - My main interests are Programming, Data Science, Quantum Computing, and, of course, Cybersecurity and Business Continuity.
