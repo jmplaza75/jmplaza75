@@ -20,15 +20,6 @@
           </picture>
         </a>
     </td>
-    <td width="50%">
-        <a href="https://github.com/jmplaza75">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-seven-psi.vercel.app?user=jmplaza75&hide_border=true&theme=radical" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-seven-psi.vercel.app?user=jmplaza75&hide_border=true" />
-            <img align="center" src="https://github-readme-streak-stats-seven-psi.vercel.app?user=jmplaza75&hide_border=true&theme=radical" alt="Streak Stats" />
-          </picture>
-        </a>
-    </td>
   </tr>
 </table>
 
